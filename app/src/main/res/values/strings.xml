@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="firebase_url">http://xxxxxxxxxx.firebaseio.com</string>
+    <string name="enter">Enter</string>
+    <string name="username">Username :</string>
+    <string name="send">Send</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+</resources>
